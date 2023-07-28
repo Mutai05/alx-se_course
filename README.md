@@ -1,2 +1,1 @@
-# alx-se_course
-ALX SE Live session
+My first readme.
